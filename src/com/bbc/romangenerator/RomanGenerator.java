@@ -1,4 +1,4 @@
-package com.bbc.romanconverter;
+package com.bbc.romangenerator;
 
 
 public class RomanGenerator implements RomanNumeralGenerator{

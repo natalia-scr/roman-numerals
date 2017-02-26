@@ -1,6 +1,6 @@
 import org.junit.Test;
 import static junit.framework.TestCase.assertEquals;
-import com.bbc.romanconverter.RomanGenerator;
+import com.bbc.romangenerator.RomanGenerator;
 
 public class RomanGeneratorTest {
 
