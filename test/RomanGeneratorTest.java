@@ -8,7 +8,10 @@ public class RomanGeneratorTest {
 
     @Test
     public void returnsRomanNumerals() throws Exception {
-
+        assertEquals(converter.generate(1), "I");
+        assertEquals(converter.generate(2), "II");
+        assertEquals(converter.generate(3), "III");
+        
     }
 }
 
